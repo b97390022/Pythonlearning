@@ -25,7 +25,7 @@
 
 
 1. First class on 3/7
-  -python
+   python
   -sourcetree
   -github
    
