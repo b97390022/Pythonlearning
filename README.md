@@ -25,9 +25,9 @@
 
 
 1. First class on 3/7
-   python
-  -sourcetree
-  -github
+     1. python
+     2. sourcetree
+     3. github
    
 2. Second class on 3/19
   -review first class
