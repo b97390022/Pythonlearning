@@ -30,4 +30,5 @@
      3. github
    
 2. Second class on 3/19
-  -review first class
+     1. review first class
+     2. github desktop
