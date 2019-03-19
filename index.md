@@ -1,8 +1,14 @@
 ## Hello everyone
-#### This is my first pyson learing page
+#### This is my first python learning page
 ![mypig](./mypig.jpg)
 
 :kissing_heart:
 
 3/7 Thursday
-today is my first day
+1st class
+1.Python introduction
+2.github
+3.sourcetree
+
+3/19 Thursday
+2nd class
