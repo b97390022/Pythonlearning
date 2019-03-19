@@ -1,3 +1,15 @@
+:yum:
+:mask:
+:sunglasses:
+:dizzy_face:
+:imp:
+:smiling_imp:
+:neutral_face:
+:no_mouth:
+:innocent:
+:alien:
+:yellow_heart:
+:blue_heart:
 ***Welcome to Pythonlearning!***
 :cold_sweat:
 :persevere:
