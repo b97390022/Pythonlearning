@@ -24,6 +24,10 @@
 [My homepage]( https://b97390022.github.io/Pythonlearning/)
 
 
-1. First ordered list item
-2. Another item\
-⋅⋅* Unordered sub-list. 
+1. First class on 3/7
+  -python
+  -sourcetree
+  -github
+   
+2. Second class on 3/19
+  -review first class
