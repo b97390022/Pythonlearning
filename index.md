@@ -1,8 +1,24 @@
-## Hello everyone
-#### This is my first pyson learing page
-![mypig](./mypig.jpg)
+:yum:
+:mask:
+:sunglasses:
+:dizzy_face:
+:imp:
+:smiling_imp:
+:neutral_face:
+:no_mouth:
+:innocent:
+:alien:
+***Welcome to Pythonlearning!***
+:cold_sweat:
+:persevere:
+:cry:
+:sob:
+:joy:
+:astonished:
+:scream:
+:neckbeard:
+:tired_face:
+:angry:
 
-:kissing_heart:
-
-3/7 Thursday
-today is my first day
+![Pythonlearning](snake.png)\
+[My homepage]( https://b97390022.github.io/Pythonlearning/)

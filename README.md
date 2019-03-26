@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+:yum:
+:mask:
+:sunglasses:
+:dizzy_face:
+:imp:
+:smiling_imp:
+:neutral_face:
+:no_mouth:
+:innocent:
+:alien:
+***Welcome to Pythonlearning!***
+:cold_sweat:
+:persevere:
+:cry:
+:sob:
+:joy:
+:astonished:
+:scream:
+:neckbeard:
+:tired_face:
+:angry:
 
-You can use the [editor on GitHub](https://github.com/b97390022/Pythonlearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Pythonlearning](snake.png)\
+[My homepage]( https://b97390022.github.io/Pythonlearning/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+1. First class on 3/7
+     1. python
+     2. sourcetree
+     3. github
+   
+2. Second class on 3/19
+     1. review first class
+     2. github desktop
+     
+| 林冠翰 | 謝宗傑 | 林邦齊 |
+|-------|:-----:|------:|
+| 50元   |  70元  |  25元 |
+| 20元   |  80元  |  50元 |
+| 30元   |  90元  |  20元 |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/b97390022/Pythonlearning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
